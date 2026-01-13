@@ -128,7 +128,9 @@ Interstellar
 
 ## 👩‍💻 Author
 
-Rishitha Janjanam \\
+Rishitha Janjanam
+
+
 AI / Data Science Student
 
 ---
